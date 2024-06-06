@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Functions
+comment0.text=\r\n\ Contains\ Helper\ Functions\r\n\r\n\ By\ Julian\r\n\ version\ 5/23/2024\r\n
+comment1.params=num
+comment1.target=int\ getNumLength(double)
+comment2.params=spaces
+comment2.target=void\ printSpaces(int)
+numComments=3
